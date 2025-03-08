@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Rob, an <a href="https://www.linkedin.com/in/robert-gaughan/">IT Professional</a>☺</h1>
 
-<!--
-**RobGaughan/RobGaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My IT Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Active Directory labs</b>
+  - [Preparing Infrastructure for Active Directory in Azure](https://github.com/RobGaughan/Infrastructure-For-AD-Azure)
+  - [Deploying Active Directory in Azure](https://github.com/RobGaughan/Deploying-Active-Directory-in-Azure/)
+  - [Creating Users, Managing Group Policy, and Accounts](https://github.com/RobGaughan/Creating-Users-Managing-Group-Policy-and-Accounts)
+  - 
+<h2>Connect with me:</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[RobG.tech](https://robg.tech/)
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/robert-gaughan/
