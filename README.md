@@ -4,7 +4,7 @@
   - [Preparing Infrastructure for Active Directory in Azure](https://github.com/RobGaughan/Infrastructure-For-AD-Azure)
   - [Deploying Active Directory in Azure](https://github.com/RobGaughan/Deploying-Active-Directory-in-Azure/)
   - [Creating Users, Managing Group Policy, and Accounts](https://github.com/RobGaughan/Creating-Users-Managing-Group-Policy-and-Accounts)
-  - 
+
 <h2>Connect with me:</h2> 
 
 [RobG.tech (My Website)](https://robg.tech/)
