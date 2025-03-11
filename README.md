@@ -5,6 +5,7 @@
 - [Preparing Infrastructure for Active Directory in Azure](https://github.com/RobGaughan/Infrastructure-For-AD-Azure)
 - [Deploying Active Directory in Azure](https://github.com/RobGaughan/Deploying-Active-Directory-in-Azure/)
 - [Creating Users, Managing Group Policy, and Accounts](https://github.com/RobGaughan/Creating-Users-Managing-Group-Policy-and-Accounts)
+- [Understanding DNS using Active Directory](https://github.com/RobGaughan/Understanding-DNS-Active-Directory)
 
 <h2>Connect with me:</h2> 
 
