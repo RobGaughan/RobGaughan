@@ -27,7 +27,7 @@
 > 
 > `Proxmox VE` `VLANs` `OPNsense` `Windows Server 2025` `Active Directory` `Group Policy` `PowerShell` `PKI / LDAPS` `Debian` `GLPI`
 > 
-> **Read the write-up:** [ad-lab.robgaughan.com](ad-lab.robgaughan.com)
+> **Read the write-up:** [Click here!](https://notes.robgaughan.com/Featured+project+-+Corp+AD+Lab/AD+LAB+0+-+Overview+-+Case+Study)
 
 ---
 ## Professional Summary
