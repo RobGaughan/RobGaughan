@@ -32,7 +32,7 @@
 ---
 ## Professional Summary
 
-Highly motivated and adaptable IT professional with active CCNA, CompTIA Network+, and A
+Highly motivated and adaptable IT professional with active CCNA, CompTIA Network+, and A+
 certifications, seeking to support end users and network infrastructure in a technician, help desk,
 or network support role. Brings a strong foundation in troubleshooting LAN/WAN environments,
 configuring Cisco equipment, administering servers and Active Directory, and managing tickets
